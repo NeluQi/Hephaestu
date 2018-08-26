@@ -1,0 +1,7 @@
+﻿target
+chat
+*.log
+*.lck
+log.log.lck
+*.bat
+*.ini

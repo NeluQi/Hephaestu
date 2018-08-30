@@ -6,7 +6,7 @@ A simple bot, wrote from boredom
 <h4><a id="List_of_commands_already_included_in_the_bot_7"></a>List of commands already included in the bot:<br>
 /help - List of Commands<br>
 /fake - Anti-deadline - broken files<br>
-/vote "< QUESTION >" < NOK ARE VOTE > - Start voting<br>
+/vote "< QUESTION >" < TIME TO VOTE > - Start voting<br>
 /rdm - Random answer (Example of a shortened command: '/r Going to the store?')<br>
 /pron - ???<br>
 /hh - ???<br>

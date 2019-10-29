@@ -8,8 +8,6 @@ A simple bot, wrote from boredom
 /fake - Anti-deadline - broken files<br>
 /vote "< QUESTION >" < TIME TO VOTE > - Start voting<br>
 /rdm - Random answer (Example of a shortened command: '/r Going to the store?')<br>
-/pron - ???<br>
-/hh - ???<br>
 </h4>
 You yourself can easily add new commands
 <h4><a id="Dependencies_11"></a>Dependencies</h4>
